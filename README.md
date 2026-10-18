@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**pavzineva/pavzineva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Ojla js Eva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sm dijakinja računalniškega tehnika 
+
+##  Malo o meni 🥱
+-  Hodim na računalniško šolo
+-  Učim se programiranja in izdelave spletnih strani
+-  V prostem času hodim plezat 🧗🏻‍♀️
+
+##  Kaj se trenutno učim? 🤔
+- HTML in CSS
+- Git in GitHub
+- Osnove programiranja
+
+##  Moji cilji ☺️
+Najti smisel življenja 
+
+## Spletna stran moje šole 😎
+-https://ers.scng.si/ 
+
+
